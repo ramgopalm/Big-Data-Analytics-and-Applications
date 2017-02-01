@@ -1,1 +1,1 @@
-Documentation folder for Big Data Analytics and Applications Lab Assignment 1 folder
+Documentation folder for Big Data Analytics and Applications Lab Assignment 2 folder
