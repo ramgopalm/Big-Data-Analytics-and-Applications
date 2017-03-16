@@ -1,0 +1,621 @@
+[
+    {
+        "outputFile": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 56,
+                    "endOffset": 157
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 162,
+                    "endColumn": 39,
+                    "endOffset": 197
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 202,
+                    "endColumn": 40,
+                    "endOffset": 238
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 243,
+                    "endColumn": 53,
+                    "endOffset": 292
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 297,
+                    "endColumn": 54,
+                    "endOffset": 347
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 352,
+                    "endColumn": 57,
+                    "endOffset": 405
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 410,
+                    "endColumn": 46,
+                    "endOffset": 452
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-commonwidget\\1.20.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 457,
+                    "endColumn": 49,
+                    "endOffset": 502
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 507,
+                    "endColumn": 51,
+                    "endOffset": 554
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 559,
+                    "endColumn": 47,
+                    "endOffset": 602
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 607,
+                    "endColumn": 61,
+                    "endOffset": 664
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 669,
+                    "endColumn": 48,
+                    "endOffset": 713
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-commonwidget\\1.20.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 718,
+                    "endLine": 16,
+                    "endColumn": 11,
+                    "endOffset": 948
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 953,
+                    "endLine": 19,
+                    "endColumn": 13,
+                    "endOffset": 1256
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1261,
+                    "endLine": 22,
+                    "endColumn": 11,
+                    "endOffset": 1547
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1552,
+                    "endLine": 25,
+                    "endColumn": 11,
+                    "endOffset": 1734
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1739,
+                    "endLine": 28,
+                    "endColumn": 11,
+                    "endOffset": 2075
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2080,
+                    "endLine": 31,
+                    "endColumn": 13,
+                    "endOffset": 2417
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2422,
+                    "endLine": 34,
+                    "endColumn": 13,
+                    "endOffset": 2654
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2659,
+                    "endLine": 37,
+                    "endColumn": 13,
+                    "endOffset": 2857
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2862,
+                    "endLine": 40,
+                    "endColumn": 11,
+                    "endOffset": 3058
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 3063,
+                    "endLine": 43,
+                    "endColumn": 11,
+                    "endOffset": 3272
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3277,
+                    "endLine": 46,
+                    "endColumn": 11,
+                    "endOffset": 3486
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3491,
+                    "endLine": 49,
+                    "endColumn": 11,
+                    "endOffset": 3621
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3626,
+                    "endLine": 53,
+                    "endColumn": 11,
+                    "endOffset": 3921
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3926,
+                    "endLine": 57,
+                    "endColumn": 11,
+                    "endOffset": 4221
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4226,
+                    "endLine": 60,
+                    "endColumn": 13,
+                    "endOffset": 4531
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 4536,
+                    "endLine": 63,
+                    "endColumn": 11,
+                    "endOffset": 4761
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 4766,
+                    "endColumn": 206,
+                    "endOffset": 4968
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 4973,
+                    "endColumn": 78,
+                    "endOffset": 5047
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 5052,
+                    "endLine": 68,
+                    "endColumn": 13,
+                    "endOffset": 5253
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 5258,
+                    "endLine": 70,
+                    "endColumn": 51,
+                    "endOffset": 5403
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 5408,
+                    "endLine": 87,
+                    "endColumn": 11,
+                    "endOffset": 6639
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 6644,
+                    "endLine": 90,
+                    "endColumn": 13,
+                    "endOffset": 6924
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 6929,
+                    "endLine": 93,
+                    "endColumn": 13,
+                    "endOffset": 7249
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 7254,
+                    "endLine": 96,
+                    "endColumn": 11,
+                    "endOffset": 7456
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 7461,
+                    "endLine": 99,
+                    "endColumn": 13,
+                    "endOffset": 7759
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 7764,
+                    "endColumn": 114,
+                    "endOffset": 7874
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 7879,
+                    "endColumn": 74,
+                    "endOffset": 7949
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 7954,
+                    "endLine": 104,
+                    "endColumn": 13,
+                    "endOffset": 8162
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 8167,
+                    "endLine": 107,
+                    "endColumn": 13,
+                    "endOffset": 8357
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 8362,
+                    "endColumn": 55,
+                    "endOffset": 8413
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 2,
+                        "startOffset": 57,
+                        "endColumn": 53,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 8418,
+                    "endLine": 113,
+                    "endColumn": 10,
+                    "endOffset": 8623
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 8628,
+                    "endLine": 119,
+                    "endColumn": 8,
+                    "endOffset": 8898
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-commonwidget\\1.20.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 8903,
+                    "endLine": 122,
+                    "endColumn": 8,
+                    "endOffset": 9061
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 9066,
+                    "endLine": 124,
+                    "endColumn": 8,
+                    "endOffset": 9125
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 9130,
+                    "endLine": 130,
+                    "endColumn": 8,
+                    "endOffset": 9372
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 9377,
+                    "endLine": 137,
+                    "endColumn": 8,
+                    "endOffset": 9727
+                },
+                "from": {
+                    "file": "C:\\Users\\Ramgopal\\Documents\\GitHub\\gvr-android-sdk\\samples\\sdk-simplepanowidget\\build\\intermediates\\exploded-aar\\com.google.vr\\sdk-common\\1.20.0\\res\\values\\values.xml"
+                }
+            }
+        ]
+    }
+]
